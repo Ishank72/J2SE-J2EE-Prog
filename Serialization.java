@@ -5,7 +5,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
-
 /*
  * Serialization is just a concept & not a class in any of the JAVA packages
  * It can be used as the name of our class
